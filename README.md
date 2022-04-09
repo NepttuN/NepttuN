@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NepttuN
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Python, HTML and JS
 - 📫 How to reach me andrejstevanovic225@gmail.com
 
 <!---
